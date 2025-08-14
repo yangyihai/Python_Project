@@ -1,0 +1,9 @@
+[submodule "Loader_driver_FZ_v0.0.1"]
+	path = Loader_driver_FZ_v0.0.1
+	url = https://github.com/yangyihai/Loader_driver_FZ_v0.0.1.git
+[submodule "PPIICC"]
+	path = PPIICC
+	url = https://github.com/yangyihai/PPIICC.git
+[submodule "WORD-TXT-PDF"]
+	path = WORD-TXT-PDF
+	url = https://github.com/yangyihai/WORD-TXT-PDF.git
